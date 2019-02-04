@@ -1,21 +1,21 @@
 def addition(number_1, number_2)
-    number_1.to_f + number_2.to_f
+  number_1.to_f + number_2.to_f
 end
 
 def subtraction(number_1, number_2)
-    number_1.to_f - number_2.to_f
+  number_1.to_f - number_2.to_f
 end
 
 def multiplication(number_1, number_2)
-    number_1.to_f * number_2.to_f
+  number_1.to_f * number_2.to_f
 end
 
 def division(number_1, number_2)
-    number_1.to_f / number_2.to_f
+  number_1.to_f / number_2.to_f
 end
 
 def remainder(number_1, number_2)
-    number_1.to_f % number_2.to_f
+  number_1.to_f % number_2.to_f
 end
 
 puts "What is the first number you'd like to input?"
